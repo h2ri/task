@@ -6,4 +6,5 @@ for i in range(0,9):
 	temp=n%37
 	str2=str2+str1[temp];
 	n=n//37
-print(str2[::-1])  
+print(str2[::-1])
+#For 930846109532517 the string is lawnmower  
